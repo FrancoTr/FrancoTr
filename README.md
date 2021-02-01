@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Adistec
+- 🔭 Working on a few small projects in order to learn new technologies and languages
 - 🌱 I’m currently learning web development with Node.js and React.js
 - 📫 mail: franco-t20@outlook.com 
 - 😄 Pronouns: He/Him
