@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Adistec
-- 🌱 I’m currently learning Node.js and React.js
+- 🌱 I’m currently learning web development with Node.js and React.js
 - 📫 mail: franco-t20@outlook.com 
 - 😄 Pronouns: He/Him
 
