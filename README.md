@@ -4,5 +4,4 @@
 
 - 🔭 Working on a few small projects in order to practice new technologies
 - 🌱 I’m currently learning web development with **Node.js** and **React.js**
-- 📫 mail: franco-t20@outlook.com 
 - 😄 Pronouns: He/Him
