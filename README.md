@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 <br></br>
 
-### 🔧 Languages & Tools
+### 🔧 Languages, frameworks & tools
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=darkblue)
