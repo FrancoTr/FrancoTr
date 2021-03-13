@@ -2,7 +2,7 @@
 <h3 align="center">Full stack Developer</h3>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotr&langs_count=6&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotr&langs_count=8&theme=dark" />
 
 
 ### 👾 About me
