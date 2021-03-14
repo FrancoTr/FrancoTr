@@ -7,8 +7,8 @@
 
 ### 👾 About me
 
-- 🔭 Working on a few small projects in order to practice new technologies
-- 🌱 I’m currently learning web development with **Node.js** and **React.js**
+- 🔭 Working on a few small projects in order to practice new technologies.
+- 🌱 I’m currently learning web development with **Node.js** and **React.js**, I'm also going through CS50W's web programming course
 - 😄 Pronouns: He/Him
 <br></br>
 
