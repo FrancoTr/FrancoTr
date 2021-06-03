@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Franco</h1>
-<h3 align="center">Full stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotr&langs_count=8&theme=dark" />
