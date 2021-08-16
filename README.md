@@ -8,7 +8,12 @@
 -  Working on a few small projects in order to practice new technologies.
 -  Learning web development with **Node.js** and **React.js**
 -  I'm currently finishing my degree in systems engineering. I have also enrolled in CS50W's web programming course
-<br></br>
+<br />
+
+### Languages and Tools:
 
 
+<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotr&langs_count=8&theme=dark" />
+
+
