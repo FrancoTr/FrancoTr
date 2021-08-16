@@ -3,7 +3,7 @@
 
 
 
-### 👾 About me
+### 👾 About me:
 
 -  Working on a few small projects in order to practice new technologies.
 -  Learning web development with **Node.js** and **React.js**
@@ -25,7 +25,7 @@
 
 <br></br>
 <br></br>
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotr&langs_count=8&theme=dark" />
 </p>
 
