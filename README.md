@@ -3,11 +3,12 @@
 
 
 
-### 👾 About me:
+### 👾 Currently:
 
--  Working on a few small projects in order to practice new technologies.
--  Learning web development with **Node.js** and **React.js**
--  I'm currently finishing my degree in systems engineering. I have also enrolled in CS50W's web programming course
+-  Working as a frontend developer
+-  Doing personal projects with Node.js and React.js, among other technologies
+-  Learning **Typescript** and polishing up web development concepts
+
 
 ### 🔧 Languages and Tools:
 <p>
