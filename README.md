@@ -6,7 +6,7 @@
 ### 👾 Currently:
 
 -  Working as a frontend developer
--  Doing personal projects with **Node.js** and **React.js**, among other technologies
+-  Making personal projects with **Node.js** and **React.js**, among other technologies
 -  Learning **Typescript** and polishing up web development concepts
 
 ### 🔧 Languages and Tools:
