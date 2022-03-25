@@ -7,7 +7,7 @@
 
 -  Working as a frontend developer
 -  Making personal projects with **Node.js** and **React.js**, among other technologies
--  Learning **Typescript** and polishing up web development concepts
+-  Learning **Typescript** and basic concepts about **Microservices**
 
 ### 🔧 Languages and Tools:
 <p>
