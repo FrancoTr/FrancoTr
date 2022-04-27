@@ -7,7 +7,7 @@
 
 -  Working as a frontend developer
 -  Making personal projects with **Node.js** and **React.js**, among other technologies
--  Learning **Typescript** and basic concepts about **Microservices**
+-  Learning **Typescript** and CI/CD with **GitHub Actions**
 
 ### 🔧 Languages and Tools:
 <p>
