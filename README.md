@@ -24,6 +24,6 @@
   <br></br>
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotr&langs_count=6&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotr&langs_count=8&theme=dark" />
 </p>
 
