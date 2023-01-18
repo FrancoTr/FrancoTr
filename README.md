@@ -7,7 +7,7 @@
 
 -  Working as a frontend developer
 -  Making personal projects with **Node.js** and **React.js**, among other technologies
--  Learning **Typescript** and **TDD** concepts with Jest & React Testing Library
+-  Learning **react-query**, **redux** and **TDD** concepts with Jest & React Testing Library
 
 ### 🔧 Languages and Tools:
 <p>
